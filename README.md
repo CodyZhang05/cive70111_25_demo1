@@ -45,7 +45,7 @@ Previous years:
 
 | Year | Gallery | Showcase |
 |------|---------|----------|
-| 2025-2026 | [GALLERY_2025.md](./GALLERY_2025.md) | [cive70111-showcase-gallery](https://cive70111-showcase-gallery.lovable.app) |
+| 2025-2026 | [Gallery](./previous_years/2025-2026.md) | [Showcase](https://cive70111-showcase-gallery.lovable.app) |
 
 The showcase site was also built with Lovable.
 
