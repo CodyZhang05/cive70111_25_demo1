@@ -1,60 +1,54 @@
 # CIVE70111 Machine Learning Gallery
 
-In this exercise, you'll learn how to use GitHub to make contributions collaboratively.
-
-You can see a user-friendly gallery showcase of all the apps that have been submitted so far [here](https://cive70111-showcase-gallery.lovable.app).
-
-_Note: This is also Lovable-generated!_ :)
+This exercise teaches the GitHub contribution workflow: fork, branch, edit, commit, pull request.
 
 ## Instructions
 
-1. **Create your website using [Lovable](https://lovable.dev/)**
+1. **Build a website with [Lovable](https://lovable.dev/)**
    - Sign in with your GitHub account.
-   - Follow the steps to generate a personal website.
-   - Copy your website's external link (e.g., `https://yourname.lovable.dev`).
+   - Generate a personal website.
+   - Copy its public link, e.g. `https://yourname.lovable.app`.
 
 2. **Fork this repository**
-   - Click the **Fork** button (top right) to make your own copy.
+   - Click **Fork** (top right).
 
-3. **Create a new branch**
-   - In your fork, open the branch selector (default is `main`) and click **View all branches**.
-   - Click the **New branch** button and type a new branch name, e.g., `yourname-website`.
-   - Press **Enter** to create it.
+3. **Create a branch**
+   - In your fork, open the branch selector (default `main`) and click **View all branches**.
+   - Click **New branch**, name it e.g. `yourname-website`, and press **Enter**.
 
-4. **Make the changes**
-   - Open `GALLERY.md` **in your fork**.
-   - Click the ✏️ **Edit** button.
-   - Add your name and website link at the bottom of the list, for example:
+4. **Add your entry**
+   - Open `GALLERY.md` in your fork and click ✏️ **Edit**.
+   - Add your entry at the bottom:
 
      ```markdown
      ## Your Name
 
      [Website Name](https://website_name.lovable.app/)
 
-     Your website description
+     One-line description
      ```
 
-5. **Commit your change**
-   - Scroll down to the **Commit changes** box.
-   - Enter a descriptive message, e.g., `Add my website link to gallery (your name)`.
+5. **Commit**
+   - In the **Commit changes** box, enter a message such as `Add my website link to gallery (your name)`.
    - Click **Commit changes**.
 
-6. **Open a Pull Request (PR)**
-   - GitHub will prompt you to open a PR after committing.
+6. **Open a pull request**
    - Click **Compare & pull request**.
-   - Confirm the base repository (this repo) and base branch (`main`).
-   - Write a short description, e.g., `Add my website link to gallery (your name)`.
-   - Click **Create pull request**.
+   - Check the base repository is this repo and the base branch is `main`.
+   - Add a short description and click **Create pull request**.
 
-✅ By completing this, you'll have practised the full GitHub workflow:  
-**fork → branch → edit → commit → pull request**
+## Galleries
 
-See the [Gallery](./GALLERY.md) for everyone's contributions!
+This year: [GALLERY.md](./GALLERY.md)
 
-## 👩‍💻 Contributors
+Previous years:
 
-Thanks to all our contributors! 🎉  
+| Year | Gallery | Showcase |
+|------|---------|----------|
+| 2025-2026 | [GALLERY_2025.md](./GALLERY_2025.md) | [cive70111-showcase-gallery](https://cive70111-showcase-gallery.lovable.app) |
 
-You can see everyone who has contributed below:
+The showcase site was also built with Lovable.
+
+## Contributors
 
 [![Contributors](https://contrib.rocks/image?repo=tsl-imperial/cive70111_25_demo1)](https://github.com/tsl-imperial/cive70111_25_demo1/graphs/contributors)
